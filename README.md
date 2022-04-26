@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 ### :page_with_curl: General information:
+- Junior Software Developer at ABBYY
 - 🎓 MIPT master student in Computer Linguistics and Natural Language Processing
 - :bar_chart: My research interests: Information Extraction tasks, Question Answering, Multilingual Models.
 
