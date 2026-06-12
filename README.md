@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ### :page_with_curl: General information:
-- Software Engineer at ABBYY
+- ML/AI Engineer at Filmustage
 - :bar_chart: My research interests: Information Extraction tasks, Question Answering, Multilingual Models.
 
 ### :blue_book: Conference Papers:
